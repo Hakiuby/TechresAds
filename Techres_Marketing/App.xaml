@@ -1,0 +1,29 @@
+﻿<Application x:Class="Techres_Marketing.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Techres_Marketing"
+             StartupUri="Views/LoginWindow.xaml"
+             Startup="App_Startup">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!--DataContext-->
+                <ResourceDictionary Source="/Resources/ResourceDataContext.xaml"/>
+                <ResourceDictionary Source="/Resources/Color.xaml"/>
+                <ResourceDictionary Source="/Resources/style.xaml"/>
+                <!--MaterialDesign-->
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.Red.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Lime.xaml" />
+                <ResourceDictionary>
+                    <FontFamily x:Key="Roboto-Italic">/Resources/Font/#Roboto-Italic</FontFamily>
+                    <FontFamily x:Key="Roboto-Light">/Resources/Font/#Roboto-Light</FontFamily>
+                    <FontFamily x:Key="Roboto-Regular">/Resources/Font/#Roboto-Regular</FontFamily>
+                    <FontFamily x:Key="HPBD-Content-Font">/Resources/Font/#SVN-Ready</FontFamily>
+                    <FontFamily x:Key="HPBD-Customer-Font">/Resources/Font/#SVN-FFF-Tusj</FontFamily>
+                </ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

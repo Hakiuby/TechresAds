@@ -1,0 +1,520 @@
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\Techres_Marketing.exe.config
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\Techres_Marketing.exe
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\Techres_Marketing.pdb
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\DevExpress.Mvvm.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\DevExpress.Mvvm.UI.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\ffme.win.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\FFmpeg.AutoGen.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\FluidKit.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\FontAwesome.Sharp.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\HandyControl.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\MaterialDesignColors.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\Newtonsoft.Json.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\RestSharp.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Buffers.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Memory.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Numerics.Vectors.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Text.Encodings.Web.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Text.Json.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.ValueTuple.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Windows.Interactivity.dll
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\DevExpress.Mvvm.pdb
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\DevExpress.Mvvm.UI.pdb
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\ffme.win.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\FFmpeg.AutoGen.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\HandyControl.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\MaterialDesignColors.pdb
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\Newtonsoft.Json.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\RestSharp.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Buffers.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Memory.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Numerics.Vectors.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Text.Encodings.Web.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Text.Json.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.ValueTuple.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\bin\Debug\System.Windows.Interactivity.xml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.AssemblyReference.cache
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Resources\Color.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Resources\Style.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Loading\LoadingWaitDownloadAsyn.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\MainWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\LoginWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\NotificationWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsUserControl.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUserControl.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowBirthDayUserControl.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowRestaurantAdsUserControl.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\App.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Techres_Marketing_MarkupCompile.cache
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Techres_Marketing_MarkupCompile.lref
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\App.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Loading\LoadingWaitDownloadAsyn.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\MainWindow.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Resources\ResourceDataContext.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\LoginWindow.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\NotificationWindow.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsUserControl.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsWindow.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUserControl.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowBirthDayUserControl.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowRestaurantAdsUserControl.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.g.resources
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.Properties.Resources.resources
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.GenerateResource.cache
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.CoreCompileInputs.cache
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.CopyComplete
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.exe
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.pdb
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\Dialogs\ConfirmExitWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\Dialogs\ConfirmExitWindow.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\AdsCustomerUC.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\AdsCustomerUC.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\AdsRestaurantUC.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\BirthdayUC.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ImageShareAloLineWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\AdsRestaurantUC.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\BirthdayUC.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ImageShareAloLineWindow.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\Dialogs\MessageNotificationWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\CustomerAdsWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\CustomerAdsWindow.baml
+D:\Template Wpf\TechresMarketing\Techres_Marketing\Techres_Marketing\obj\Debug\Views\Dialogs\MessageNotificationWindow.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\Techres_Marketing.exe.config
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\Techres_Marketing.exe
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\Techres_Marketing.pdb
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\DevExpress.Mvvm.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\DevExpress.Mvvm.UI.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\ffme.win.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\FFmpeg.AutoGen.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\FluidKit.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\FontAwesome.Sharp.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\HandyControl.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\MaterialDesignColors.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\Newtonsoft.Json.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\RestSharp.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Buffers.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Memory.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Numerics.Vectors.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Text.Encodings.Web.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Text.Json.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.ValueTuple.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Windows.Interactivity.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\DevExpress.Mvvm.pdb
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\DevExpress.Mvvm.UI.pdb
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\ffme.win.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\FFmpeg.AutoGen.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\HandyControl.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\MaterialDesignColors.pdb
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\Newtonsoft.Json.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\RestSharp.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Buffers.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Memory.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Numerics.Vectors.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Text.Encodings.Web.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Text.Json.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.ValueTuple.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\System.Windows.Interactivity.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.AssemblyReference.cache
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Resources\Color.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Resources\Style.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Loading\LoadingWaitDownloadAsyn.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\MainWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\CustomerAdsWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\Dialogs\ConfirmExitWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\Dialogs\MessageNotificationWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\LoginWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\NotificationWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsUserControl.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\AdsCustomerUC.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\AdsRestaurantUC.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\BirthdayUC.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ImageShareAloLineWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUserControl.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowBirthDayUserControl.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowRestaurantAdsUserControl.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\App.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Techres_Marketing_MarkupCompile.cache
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Techres_Marketing_MarkupCompile.lref
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\App.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Loading\LoadingWaitDownloadAsyn.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\MainWindow.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Resources\ResourceDataContext.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\CustomerAdsWindow.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\Dialogs\ConfirmExitWindow.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\Dialogs\MessageNotificationWindow.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\LoginWindow.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\NotificationWindow.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsUserControl.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsWindow.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\AdsCustomerUC.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\AdsRestaurantUC.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\BirthdayUC.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ImageShareAloLineWindow.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUserControl.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowBirthDayUserControl.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowRestaurantAdsUserControl.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.g.resources
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.Properties.Resources.resources
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.GenerateResource.cache
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.CoreCompileInputs.cache
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.CopyComplete
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.exe
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Techres_Marketing.pdb
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUC.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUC.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\FFImageLoading.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\FFImageLoading.Platform.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\FFImageLoading.pdb
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\FFImageLoading.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\FFImageLoading.Platform.xml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\bin\Debug\WpfPageTransitions.dll
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\SecondScreen\ShowBirthDayWindow.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\TextItemUserControl.g.cs
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\SecondScreen\ShowBirthDayWindow.baml
+D:\Template Wpf\TechresMarketing\Techres-Marketing\Techres_Marketing\obj\Debug\Views\UserControls\TextItemUserControl.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Techres_Marketing.exe.config
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Techres_Marketing.exe
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Techres_Marketing.pdb
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\DevExpress.Mvvm.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\DevExpress.Mvvm.UI.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\ffme.win.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FluidKit.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\HandyControl.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignColors.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\RestSharp.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Buffers.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Memory.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Text.Json.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.ValueTuple.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\WpfPageTransitions.dll
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\DevExpress.Mvvm.pdb
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\DevExpress.Mvvm.UI.pdb
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.pdb
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\ffme.win.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\HandyControl.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignColors.pdb
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\RestSharp.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Buffers.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Memory.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Text.Json.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.ValueTuple.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.AssemblyReference.cache
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Resources\Color.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Loading\LoadingWaitDownloadAsyn.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\MainWindow.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\CustomerAdsWindow.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\Dialogs\ConfirmExitWindow.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\Dialogs\MessageNotificationWindow.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\NotificationWindow.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsUserControl.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsWindow.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\ShowBirthDayWindow.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\AdsCustomerUC.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\AdsRestaurantUC.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\BirthdayUC.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ImageShareAloLineWindow.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUC.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUserControl.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowBirthDayUserControl.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowRestaurantAdsUserControl.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\TextItemUserControl.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\App.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing_MarkupCompile.cache
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing_MarkupCompile.lref
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\App.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Loading\LoadingWaitDownloadAsyn.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\MainWindow.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Resources\ResourceDataContext.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Resources\Style.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\CustomerAdsWindow.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\Dialogs\ConfirmExitWindow.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\Dialogs\MessageNotificationWindow.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\LoginWindow.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\NotificationWindow.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsUserControl.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsWindow.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\ShowBirthDayWindow.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\AdsCustomerUC.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\AdsRestaurantUC.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\BirthdayUC.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ImageShareAloLineWindow.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUC.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUserControl.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowBirthDayUserControl.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowRestaurantAdsUserControl.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\TextItemUserControl.baml
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.g.resources
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.Properties.Resources.resources
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.GenerateResource.cache
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.CoreCompileInputs.cache
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.CopyComplete
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.exe
+C:\Users\HA\Desktop\Marketing\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.pdb
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Techres_Marketing.exe.config
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Techres_Marketing.exe
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Techres_Marketing.pdb
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\DevExpress.Mvvm.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\DevExpress.Mvvm.UI.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\ffme.win.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FluidKit.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\HandyControl.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignColors.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\RestSharp.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Buffers.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Memory.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Text.Json.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.ValueTuple.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\WpfPageTransitions.dll
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\DevExpress.Mvvm.pdb
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\DevExpress.Mvvm.UI.pdb
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.pdb
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\ffme.win.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\HandyControl.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignColors.pdb
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\RestSharp.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Buffers.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Memory.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Text.Json.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.ValueTuple.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.AssemblyReference.cache
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Resources\Color.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Loading\LoadingWaitDownloadAsyn.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\MainWindow.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\CustomerAdsWindow.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\Dialogs\ConfirmExitWindow.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\Dialogs\MessageNotificationWindow.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\NotificationWindow.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsUserControl.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsWindow.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\ShowBirthDayWindow.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\AdsCustomerUC.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\AdsRestaurantUC.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\BirthdayUC.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ImageShareAloLineWindow.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUC.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUserControl.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowBirthDayUserControl.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowRestaurantAdsUserControl.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\TextItemUserControl.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\App.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing_MarkupCompile.cache
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing_MarkupCompile.lref
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\App.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Loading\LoadingWaitDownloadAsyn.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\MainWindow.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Resources\ResourceDataContext.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Resources\Style.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\CustomerAdsWindow.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\Dialogs\ConfirmExitWindow.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\Dialogs\MessageNotificationWindow.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\LoginWindow.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\NotificationWindow.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsUserControl.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsWindow.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\ShowBirthDayWindow.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\AdsCustomerUC.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\AdsRestaurantUC.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\BirthdayUC.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ImageShareAloLineWindow.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUC.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUserControl.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowBirthDayUserControl.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowRestaurantAdsUserControl.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\TextItemUserControl.baml
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.g.resources
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.Properties.Resources.resources
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.GenerateResource.cache
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.CoreCompileInputs.cache
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.CopyComplete
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.exe
+C:\Users\HA\Desktop\GitHub\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.pdb
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Resources\Color.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Loading\LoadingWaitDownloadAsyn.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\MainWindow.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\CustomerAdsWindow.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\Dialogs\ConfirmExitWindow.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\Dialogs\MessageNotificationWindow.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\NotificationWindow.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsUserControl.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsWindow.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\ShowBirthDayWindow.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\AdsCustomerUC.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\AdsRestaurantUC.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\BirthdayUC.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ImageShareAloLineWindow.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUC.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUserControl.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowBirthDayUserControl.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowRestaurantAdsUserControl.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\TextItemUserControl.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\App.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing_MarkupCompile.cache
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing_MarkupCompile.lref
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.exe
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.pdb
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\LoginWindow.g.cs
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Techres_Marketing.exe.config
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Techres_Marketing.exe
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Techres_Marketing.pdb
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\DevExpress.Mvvm.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\DevExpress.Mvvm.UI.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.Platform.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\ffme.win.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFmpeg.AutoGen.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FluidKit.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FontAwesome.Sharp.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\HandyControl.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignColors.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Newtonsoft.Json.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\RestSharp.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Buffers.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Memory.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Numerics.Vectors.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Text.Encodings.Web.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Text.Json.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.ValueTuple.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Windows.Interactivity.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\WpfPageTransitions.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\XamlAnimatedGif.dll
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\DevExpress.Mvvm.pdb
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\DevExpress.Mvvm.UI.pdb
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.pdb
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFImageLoading.Platform.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\ffme.win.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\FFmpeg.AutoGen.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\HandyControl.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignColors.pdb
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\Newtonsoft.Json.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\RestSharp.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Buffers.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Memory.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Numerics.Vectors.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Text.Encodings.Web.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Text.Json.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.ValueTuple.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\System.Windows.Interactivity.xml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\bin\Debug\XamlAnimatedGif.pdb
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\App.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Loading\LoadingWaitDownloadAsyn.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\MainWindow.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Resources\ResourceDataContext.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Resources\Style.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\CustomerAdsWindow.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\Dialogs\ConfirmExitWindow.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\Dialogs\MessageNotificationWindow.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\LoginWindow.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\NotificationWindow.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsUserControl.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\MainAdsWindow.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\SecondScreen\ShowBirthDayWindow.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\AdsCustomerUC.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\AdsRestaurantUC.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\BirthdayUC.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ImageShareAloLineWindow.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUC.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowAdsUserControl.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowBirthDayUserControl.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\ShowRestaurantAdsUserControl.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Views\UserControls\TextItemUserControl.baml
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.g.resources
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.Properties.Resources.resources
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.GenerateResource.cache
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.CoreCompileInputs.cache
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.CopyComplete
+D:\Template Wpf\vn.techres.adsense.windows\Techres_Marketing\obj\Debug\Techres_Marketing.csproj.AssemblyReference.cache
